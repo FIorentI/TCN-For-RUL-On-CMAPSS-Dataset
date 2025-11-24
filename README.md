@@ -2,11 +2,6 @@
 
 This project implements a Temporal Convolutional Network (TCN) to predict the Remaining Useful Life (RUL) of turbofan engines from the NASA CMAPSS dataset.
 
-## Description
-
-The goal is to predict the RUL of engines based on sensor readings over time. This is a regression problem where the model learns to map a sequence of sensor data to a sequence of RUL values. The model uses a TCN architecture, which is well-suited for sequence modeling tasks.
-
-The project uses `wandb` for experiment tracking and visualization.
 
 ## Dependencies
 
